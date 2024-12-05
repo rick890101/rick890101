@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, This is Rick890101's Github. </h1>
 
-<!--
-**rick890101/rick890101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have many code names and nicknames, and I’m usually called: ChanYuRick, Rick890101, cthung. 
 
-Here are some ideas to get you started:
+Link: [Linktr.ee](https://linktr.ee/chanyurick/)、[MailToMe](mailto:chanyurick@chanyu.info)、[MailToMe_withGmail](mailto:rick890101@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* From: Taiwan 🇹🇼
+* Hobby: ACGN, 3C, ...etc
+* Good at development: Web, Information Security, Database.
+
+---
+
+You can usually reach me through the link above or by sending an email 🥰
